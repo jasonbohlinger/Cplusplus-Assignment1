@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(int argc, char** argv){
-   const float PAY_RATE = 16.0;
+   const float PAY_RATE = 20.0;
    float numHoursWorked;
    float gross;
    float socialSecurityTax;
