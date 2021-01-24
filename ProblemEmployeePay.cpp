@@ -1,7 +1,6 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-//Hello
 
 int main(int argc, char** argv){
    const float PAY_RATE =  16.0;
